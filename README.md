@@ -52,8 +52,7 @@ Resume Parsing: PyPDF2, python-docx
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/shashiiii24/ai-generated-portfolio.git
-cd ai-generated-portfolio
+git clone https://github.com/shashiiii24/AI-Generated-Portfolio-Website-from-Resume-.git
 ```
 
 ## 2️⃣ Install dependencies
@@ -61,7 +60,7 @@ cd ai-generated-portfolio
 pip install -r requirements.txt
 ```
 
-##3️⃣ Add API key
+## 3️⃣ Add API key
 ```bash
 Create a .env file:
 
