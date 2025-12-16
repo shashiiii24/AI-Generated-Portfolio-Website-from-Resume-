@@ -36,6 +36,7 @@ Resume Parsing: PyPDF2, python-docx
 --
 ## 📂 Project Structure
 
+```bash
 ├── main.py
 ├── requirements.txt
 ├── .env
@@ -43,15 +44,16 @@ Resume Parsing: PyPDF2, python-docx
 ├── style.css         # generated
 ├── script.js         # generated
 └── website_files.zip # generated
---
+
+```
 
 # ⚙️ Setup & Run
 ## 1️⃣ Clone the repository
 
---bash
+```bash
 git clone https://github.com/shashiiii24/ai-generated-portfolio.git
 cd ai-generated-portfolio
---bash
+```
 
 
 
