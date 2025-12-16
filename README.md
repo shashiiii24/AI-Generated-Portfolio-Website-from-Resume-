@@ -3,7 +3,6 @@
 An AI-powered web application that automatically creates a professional portfolio website from a user’s resume using Generative AI.
 
 Upload your resume → get a complete HTML, CSS, and JavaScript portfolio website in seconds.
-
 --
 
 ## 🚀 Features
@@ -21,7 +20,6 @@ Upload your resume → get a complete HTML, CSS, and JavaScript portfolio websit
 📦 Download website files as a ZIP
 
 🔁 Handles AI model overload with retry logic
-
 --
 
 ## 🛠️ Tech Stack
@@ -35,7 +33,6 @@ AI / LLM: Google Gemini
 LLM Framework: LangChain
 
 Resume Parsing: PyPDF2, python-docx
-
 --
 ## 📂 Project Structure
 
@@ -46,7 +43,6 @@ Resume Parsing: PyPDF2, python-docx
 ├── style.css         # generated
 ├── script.js         # generated
 └── website_files.zip # generated
-
 --
 
 # ⚙️ Setup & Run
